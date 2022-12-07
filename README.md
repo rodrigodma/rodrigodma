@@ -20,7 +20,6 @@
 <br/>
 
 <a href="https://github.com/rodrigodma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodma&theme=dracula&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodma&theme=dracula&show_icons=true" />
 </a>
 
