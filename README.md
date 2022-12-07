@@ -30,7 +30,7 @@
 
 <h3> :earth_americas: &nbsp;how to reach me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-rodrigodma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/rodrigodma/)](linkedin.com/in/rodrigodma/)
+[![Linkedin: rodrigodma](https://img.shields.io/badge/-rodrigodma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/rodrigodma/)](linkedin.com/in/rodrigodma/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigodma@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodma@gmail.com)](mailto:rodrigodma@gmail.com)
 
 
